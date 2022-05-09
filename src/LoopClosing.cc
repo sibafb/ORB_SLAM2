@@ -20,6 +20,10 @@
 
 #include "LoopClosing.h"
 
+#include <unistd.h>
+#include <stdio.h>
+#include <stdlib.h>
+
 #include "Sim3Solver.h"
 
 #include "Converter.h"
